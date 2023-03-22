@@ -9,7 +9,6 @@ connect property managers and potential buyers.
 
 🚧 **backend-fastify/** work in progress 🚧.
 
-**[LIVE DEMO](https://real-estate-management.netlify.app/)**
 
 ![Screenshot](https://ik.imagekit.io/wr5lnrww0q8/REM_Folder/social_GKmc-8vHw.jpg?updatedAt=1631134174081)
 
